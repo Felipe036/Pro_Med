@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/hms/admin/add-doctor.php" line="98" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="508e5ce2-8e92-49be-a6a7-3219d5619b7b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hms/admin/appointment-history.php" afterPath="$PROJECT_DIR$/hms/admin/appointment-history.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hms/admin/book-appointment.php" afterPath="$PROJECT_DIR$/hms/admin/book-appointment.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hms/admin/include/sidebar.php" afterPath="$PROJECT_DIR$/hms/admin/include/sidebar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hms/admin/manage-users.php" afterPath="$PROJECT_DIR$/hms/admin/manage-users.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hms/doctor/edit-profile.php" afterPath="$PROJECT_DIR$/hms/doctor/edit-profile.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hms/edit-profile.php" afterPath="$PROJECT_DIR$/hms/edit-profile.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="manage-users.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hms/admin/manage-users.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="121" column="91" lean-forward="false" selection-start-line="121" selection-start-column="85" selection-end-line="121" selection-end-column="91" />
+              <folding>
+                <element signature="e#5197#5203#1#HTML" expanded="true" />
+                <marker date="1508202199964" expanded="true" signature="261:307" ph="delete from " />
+                <marker date="1508202199964" expanded="true" signature="3861:3880" ph="select * fro... users" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>n</find>
+      <find>ac</find>
+      <find>ad</find>
+      <find>adr</find>
+      <find>adre</find>
+      <find>charac</find>
+      <find>characters</find>
+      <find>caracteres</find>
+      <find>header</find>
+      <find>w</find>
+      <find>wrap</find>
+      <find>logo</find>
+      <find>adduser</find>
+      <find>phone</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/hms/doctor/include/header.php" />
+        <option value="$PROJECT_DIR$/hms/admin/dashboard.php" />
+        <option value="$PROJECT_DIR$/hms/admin/index.php" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/hms/admin/include/header.php" />
+        <option value="$PROJECT_DIR$/hms/include/header.php" />
+        <option value="$PROJECT_DIR$/css/responsiveslides.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/hms/admin/registration.php" />
+        <option value="D:/Downloads/hmsproject/hospital/hms/admin/doctor-specilization.php" />
+        <option value="D:/Downloads/hmsproject/hospital/hms/book-appointment.php" />
+        <option value="$PROJECT_DIR$/hms/admin/edit-doctor.php" />
+        <option value="$PROJECT_DIR$/hms/get_doctor.php" />
+        <option value="$PROJECT_DIR$/hms/user-login.php" />
+        <option value="$PROJECT_DIR$/hms/change-password.php" />
+        <option value="$PROJECT_DIR$/hms/check_availability.php" />
+        <option value="$PROJECT_DIR$/hms/admin/user-logs.php" />
+        <option value="$PROJECT_DIR$/hms/admin/doctor-logs.php" />
+        <option value="$PROJECT_DIR$/hms/admin/include/footer.php" />
+        <option value="$PROJECT_DIR$/hms/admin/edit-doctor-specialization.php" />
+        <option value="$PROJECT_DIR$/hms/admin/edit-user.php" />
+        <option value="$PROJECT_DIR$/hms/admin/assets/js/form-elements.js" />
+        <option value="$PROJECT_DIR$/hms/admin/assets/js/MascaraValidacao.js" />
+        <option value="$PROJECT_DIR$/hms/admin/vendor/maskedinput/jquery.maskedinput.min.js" />
+        <option value="$PROJECT_DIR$/hms/logout.php" />
+        <option value="$PROJECT_DIR$/hms/doctor/logout.php" />
+        <option value="$PROJECT_DIR$/hms/admin/logout.php" />
+        <option value="$PROJECT_DIR$/hms/admin/manage-doctors.php" />
+        <option value="$PROJECT_DIR$/hms/admin/doctor-specilization.php" />
+        <option value="$PROJECT_DIR$/hms/doctor/include/sidebar.php" />
+        <option value="$PROJECT_DIR$/hms/book-appointment.php" />
+        <option value="$PROJECT_DIR$/hms/dashboard.php" />
+        <option value="$PROJECT_DIR$/hms/include/sidebar.php" />
+        <option value="$PROJECT_DIR$/hms/appointment-history.php" />
+        <option value="$PROJECT_DIR$/hms/include/config.php" />
+        <option value="$PROJECT_DIR$/hms/get_state.php" />
+        <option value="$PROJECT_DIR$/hms/admin/get_doctor.php" />
+        <option value="$PROJECT_DIR$/hms/admin/get_state.php" />
+        <option value="$PROJECT_DIR$/hms/admin/AJAX_buscaCidades.php" />
+        <option value="$PROJECT_DIR$/hms/registration.php" />
+        <option value="$PROJECT_DIR$/hms/admin/add-doctor.php" />
+        <option value="$PROJECT_DIR$/hms/admin/book-appointment.php" />
+        <option value="$PROJECT_DIR$/hms/admin/appointment-history.php" />
+        <option value="$PROJECT_DIR$/hms/doctor/edit-profile.php" />
+        <option value="$PROJECT_DIR$/hms/edit-profile.php" />
+        <option value="$PROJECT_DIR$/hms/doctor/appointment-history.php" />
+        <option value="$PROJECT_DIR$/hms/admin/include/sidebar.php" />
+        <option value="$PROJECT_DIR$/hms/admin/add-user.php" />
+        <option value="$PROJECT_DIR$/hms/admin/anamnesis-card.php" />
+        <option value="$PROJECT_DIR$/hms/admin/manage-users.php" />
+        <option value="D:/Downloads/hmsproject/hospital/hms/admin/manage-doctors.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP_Wamp" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ProMed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProMed" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ProMed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProMed" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="hms" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ProMed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProMed" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="hms" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="SearchEverywhereHistoryKey" value="active&#9;null&#9;null&#10;top-nav&#9;FILE&#9;file://C:/wamp64/www/projetos/hms/hms/master/sass/partials/layout-elements/_top-navbar.scss" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.anamnesis-card.php">
+    <configuration name="anamnesis-card.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ProMed/hms/admin/anamnesis-card.php" />
+    <configuration name="dashboard.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/hms/hms/admin/dashboard.php" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.dashboard.php" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.anamnesis-card.php" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.anamnesis-card.php" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.dashboard.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="508e5ce2-8e92-49be-a6a7-3219d5619b7b" name="Default" comment="" />
+      <created>1506360336031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506360336031</updated>
+      <workItem from="1506360337301" duration="174000" />
+      <workItem from="1506361924963" duration="4664000" />
+      <workItem from="1506367595605" duration="2584000" />
+      <workItem from="1506378639307" duration="1179000" />
+      <workItem from="1506386651806" duration="1824000" />
+      <workItem from="1506463515912" duration="4322000" />
+      <workItem from="1506470227897" duration="351000" />
+      <workItem from="1506471844443" duration="905000" />
+      <workItem from="1506637425472" duration="7422000" />
+      <workItem from="1506657261828" duration="3569000" />
+      <workItem from="1506705622130" duration="2176000" />
+      <workItem from="1506723453970" duration="1717000" />
+      <workItem from="1506806156813" duration="7316000" />
+      <workItem from="1506982646900" duration="11081000" />
+      <workItem from="1507156360408" duration="14000" />
+      <workItem from="1507156418663" duration="6020000" />
+      <workItem from="1507169670948" duration="1887000" />
+      <workItem from="1507242526439" duration="9022000" />
+      <workItem from="1507329444484" duration="3616000" />
+      <workItem from="1507335063449" duration="2381000" />
+      <workItem from="1507398214554" duration="10132000" />
+      <workItem from="1507430602487" duration="15642000" />
+      <workItem from="1507487085996" duration="29883000" />
+      <workItem from="1507521842776" duration="6639000" />
+      <workItem from="1507571295940" duration="2989000" />
+      <workItem from="1507577009500" duration="2424000" />
+      <workItem from="1507592750198" duration="4358000" />
+      <workItem from="1507675458172" duration="54000" />
+      <workItem from="1507863490732" duration="718000" />
+      <workItem from="1507947067920" duration="1778000" />
+      <workItem from="1507984079160" duration="364000" />
+      <workItem from="1508193126975" duration="9288000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="156493000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21331316" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hms/admin/assets/js/ui-notifications.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Downloads/hmsproject/hospital/hms/admin/add-doctor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-493">
+          <caret line="82" column="41" lean-forward="true" selection-start-line="82" selection-start-column="41" selection-end-line="82" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Downloads/hmsproject/hospital/hms/admin/user-logs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1326">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/admin/user-logs.php" />
+    <entry file="file://$PROJECT_DIR$/hms/admin/doctor-logs.php" />
+    <entry file="file://$PROJECT_DIR$/hms/include/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="30" column="52" lean-forward="false" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/admin/include/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="105" lean-forward="false" selection-start-line="3" selection-start-column="105" selection-end-line="3" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/admin/include/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Downloads/hmsproject/hospital/hms/book-appointment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3756">
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/admin/include/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="30" column="72" lean-forward="false" selection-start-line="30" selection-start-column="72" selection-end-line="30" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/admin/edit-user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="121" column="62" lean-forward="true" selection-start-line="116" selection-start-column="0" selection-end-line="121" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/admin/assets/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/admin/assets/js/MascaraValidacao.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/admin/assets/js/form-elements.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/admin/vendor/maskedinput/jquery.maskedinput.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="6" column="175" lean-forward="false" selection-start-line="6" selection-start-column="170" selection-end-line="6" selection-end-column="175" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/admin/vendor/maskedinput/jquery.maskedinput.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/doctor/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/admin/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/admin/edit-doctor-specialization.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="96" column="142" lean-forward="false" selection-start-line="96" selection-start-column="142" selection-end-line="96" selection-end-column="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/admin/doctor-specilization.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="150" column="260" lean-forward="false" selection-start-line="150" selection-start-column="260" selection-end-line="150" selection-end-column="260" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/doctor/include/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="28" column="65" lean-forward="false" selection-start-line="28" selection-start-column="65" selection-end-line="28" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/include/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="29" column="83" lean-forward="false" selection-start-line="29" selection-start-column="83" selection-end-line="29" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="100" column="61" lean-forward="false" selection-start-line="100" selection-start-column="61" selection-end-line="100" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Downloads/hmsproject/hospital/hms/admin/appointment-history.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="163" column="12" lean-forward="false" selection-start-line="163" selection-start-column="12" selection-end-line="163" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/appointment-history.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="154" column="54" lean-forward="false" selection-start-line="136" selection-start-column="48" selection-end-line="154" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/include/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-544">
+          <caret line="28" column="48" lean-forward="false" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/get_doctor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/admin/AJAX_buscaCidades.php" />
+    <entry file="file://$PROJECT_DIR$/hms/admin/get_doctor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/registration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/get_state.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/admin/add-doctor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="105" column="55" lean-forward="true" selection-start-line="105" selection-start-column="55" selection-end-line="105" selection-end-column="55" />
+          <folding>
+            <marker date="1507596512482" expanded="true" signature="698:1046" ph="INSERT into doctors... " />
+            <marker date="1507596512482" expanded="true" signature="704:1046" ph="insert into doctors... " />
+            <marker date="1507596512482" expanded="true" signature="1284:1303" ph="..." />
+            <marker date="1507596512482" expanded="true" signature="5166:5199" ph="select * fro... doctorspecilization" />
+            <marker date="1507596512482" expanded="true" signature="9045:9059" ph="select * fro... doctorspecilization" />
+            <marker date="1507596512482" expanded="true" signature="9045:9065" ph="select * fro... region" />
+            <marker date="1507596512482" expanded="true" signature="10767:10787" ph="SELECT * FRO... states" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/admin/get_state.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/user-login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+          <folding>
+            <marker date="1507513393606" expanded="true" signature="180:280" ph="SELECT * FRO... users" />
+            <marker date="1507513393606" expanded="true" signature="639:758" ph="insert into userlog... " />
+            <marker date="1507513393606" expanded="true" signature="1095:1188" ph="insert into userlog... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/doctor/edit-profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="132" column="128" lean-forward="false" selection-start-line="132" selection-start-column="128" selection-end-line="132" selection-end-column="128" />
+          <folding>
+            <marker date="1508193265133" expanded="true" signature="535:786" ph="Update docto... " />
+            <marker date="1508193265133" expanded="true" signature="3792:3854" ph="select * fro... doctors" />
+            <marker date="1508193265133" expanded="true" signature="4389:4422" ph="select * fro... doctorspecilization" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/edit-profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="125" column="24" lean-forward="true" selection-start-line="125" selection-start-column="24" selection-end-line="125" selection-end-column="24" />
+          <folding>
+            <marker date="1508193538790" expanded="true" signature="399:560" ph="Update users... " />
+            <marker date="1508193538790" expanded="true" signature="3612:3672" ph="select * fro... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/doctor/appointment-history.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1508194442551" expanded="true" signature="233:301" ph="update appoi... " />
+            <marker date="1508194442551" expanded="true" signature="3595:3748" ph="select users... appointment" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/doctor/anamnesis-card.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/book-appointment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="52" column="14" lean-forward="true" selection-start-line="52" selection-start-column="14" selection-end-line="52" selection-end-column="14" />
+          <folding>
+            <marker date="1507578200703" expanded="true" signature="487:697" ph="INSERT into appointment... " />
+            <marker date="1507578200703" expanded="true" signature="4886:4919" ph="SELECT * FRO... doctorspecilization" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/admin/include/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="76" column="63" lean-forward="false" selection-start-line="76" selection-start-column="63" selection-end-line="76" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/admin/appointment-history.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="79" column="56" lean-forward="false" selection-start-line="79" selection-start-column="56" selection-end-line="79" selection-end-column="56" />
+          <folding>
+            <marker date="1507951422798" expanded="true" signature="3587:3769" ph="select docto... appointment" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/admin/book-appointment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2821">
+          <caret line="170" column="62" lean-forward="true" selection-start-line="170" selection-start-column="62" selection-end-line="170" selection-end-column="62" />
+          <folding>
+            <marker date="1507864035228" expanded="true" signature="445:655" ph="INSERT into appointment... " />
+            <marker date="1507864035228" expanded="true" signature="4866:4899" ph="SELECT * FRO... doctorspecilization" />
+            <marker date="1507864035228" expanded="true" signature="6711:6730" ph="select * fro... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/admin/add-user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="68" column="13" lean-forward="true" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
+          <folding>
+            <marker date="1508200030533" expanded="true" signature="685:990" ph="INSERT into users... " />
+            <marker date="1508200030533" expanded="true" signature="8403:8423" ph="select * fro... region" />
+            <marker date="1508200030533" expanded="true" signature="9918:9938" ph="SELECT * FRO... states" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/admin/anamnesis-card.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="89" column="30" lean-forward="true" selection-start-line="89" selection-start-column="30" selection-end-line="89" selection-end-column="30" />
+          <folding>
+            <marker date="1508200380338" expanded="true" signature="826:1234" ph="INSERT into users... " />
+            <marker date="1508200380338" expanded="true" signature="6241:6260" ph="select * fro... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Downloads/hmsproject/hospital/hms/admin/edit-doctor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1483518610589" expanded="true" signature="427:606" ph="Update docto... " />
+            <marker date="1483518610589" expanded="true" signature="3681:3718" ph="select * fro... doctors" />
+            <marker date="1483518610589" expanded="true" signature="4249:4282" ph="select * fro... doctorspecilization" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Downloads/hmsproject/hospital/hms/admin/manage-users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="137" column="28" lean-forward="true" selection-start-line="137" selection-start-column="28" selection-end-line="137" selection-end-column="28" />
+          <folding>
+            <marker date="1483598888454" expanded="true" signature="182:228" ph="delete from " />
+            <marker date="1483598888454" expanded="true" signature="3624:3643" ph="select * fro... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/admin/manage-doctors.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="106" column="193" lean-forward="true" selection-start-line="106" selection-start-column="156" selection-end-line="106" selection-end-column="193" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Downloads/hmsproject/hospital/hms/admin/manage-doctors.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="109" column="146" lean-forward="true" selection-start-line="109" selection-start-column="146" selection-end-line="109" selection-end-column="146" />
+          <folding>
+            <element signature="e#4699#4705#1#HTML" expanded="true" />
+            <marker date="1508202436769" expanded="true" signature="183:231" ph="delete from " />
+            <marker date="1508202436769" expanded="true" signature="3513:3534" ph="select * fro... doctors" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hms/admin/manage-users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="121" column="91" lean-forward="false" selection-start-line="121" selection-start-column="85" selection-end-line="121" selection-end-column="91" />
+          <folding>
+            <element signature="e#5197#5203#1#HTML" expanded="true" />
+            <marker date="1508202199964" expanded="true" signature="261:307" ph="delete from " />
+            <marker date="1508202199964" expanded="true" signature="3861:3880" ph="select * fro... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
