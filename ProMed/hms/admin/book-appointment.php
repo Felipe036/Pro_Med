@@ -11,15 +11,20 @@ if(isset($_POST['submit']))
 
     $specilization=$_POST['doctorSpecialization'];
     $doctorid=$_POST['doctor'];
-    $userid=$_POST['id'];
+    $userid=$_SESSION['id'];
     $appdate=$_POST['appdate'];
     $time=$_POST['apptime'];
     $docstatus=1;
     $userstatus=1;
+    $con=new conexaoadmin();
+    $con->conect();
     $sql=mysqli_query($con->bd,"INSERT into appointment(doctorSpecialization,doctorId,userId,appointmentDate,appointmentTime,userStatus,doctorStatus) values('$specilization','$doctorid','$userid','$appdate','$time','$userstatus','$docstatus')");
     if($sql)
     {
         echo "<script>alert('Consulta agendada com sucesso');</script>";
+        echo "<script language=\"javascript\">
+                document.location=\"appointment-history.php\";
+              </script>";
     }
 
 }
@@ -136,11 +141,7 @@ function getdoctor(val) {
 
 															</select>
 														</div>
-
-
-
-
-														<div class="form-group">
+<div class="form-group">
 															<label for="doctor">
 																Médicos
 															</label>
@@ -148,22 +149,22 @@ function getdoctor(val) {
 						<option value="">Selecione Médico</option>
 						</select>
 														</div>
-                                                        <div class="form-group">
-                                                            <label for="id">
-                                                                Pacientes
-                                                            </label>
-                                                            <select name="id" class="form-control" required="required">
-                                                                <option>Selecionar Paciente</option>
-                                                                <?php
-                                                                $con=new conexaoadmin();
-                                                                $con->conect();
+<div class="form-group">
+                                                                    <label for="id">
+                                                                        Pacientes
+                                                                    </label>
+                                                                    <select name="id" class="form-control" required="required">
+                                                                        <option>Selecione Paciente</option>
+                                                                        <?php
+                                                                        $con=new conexaoadmin();
+                                                                        $con->conect();
 
-                                                                $ret=mysqli_query( $con->bd,"select * from users");
-                                                                while($row=mysqli_fetch_array($ret))
-                                                                {
-                                                                    ?>
-                                                                    <option value="<?php echo htmlentities($row['id']),htmlentities($row['fullName']);?>">
-                                                                        <?php echo htmlentities($row['id']),htmlentities($row['fullName']);?>
+                                                                        $ret=mysqli_query( $con->bd,"SELECT * FROM users");
+                                                                        while($row=mysqli_fetch_array($ret))
+                                                                        {
+                                                                            ?>
+                                                                            <option value="<?php echo htmlentities($row['id']);?> - <?php echo htmlentities($row['fullName']);?>">
+                                                                        <?php echo htmlentities($row['id']);?> - <?php echo htmlentities($row['fullName']);?>
                                                                     </option>
                                                                 <?php } ?>
 

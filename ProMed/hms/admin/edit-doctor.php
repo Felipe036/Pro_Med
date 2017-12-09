@@ -19,8 +19,10 @@ $password=$_POST['password'];
 $sql=mysqli_query($con->bd,"Update doctors set specilization='$docspecialization',doctorName='$docname',address='$docaddress',contactno='$doccontactno',docEmail='$docemail',password='$password' where id='$did'");
 if($sql)
 {
-echo "<script>alert('Seu perfil foi atualizado com sucesso!');</script>";
-    echo "<script type='text/javascript'> document.location = href('location:Manage-doctors.php'); </script>";
+echo "<script>alert('Perfil foi atualizado com sucesso!');</script>";
+    echo "<script language=\"javascript\">
+                document.location=\"manage-doctors.php\";
+              </script>";
 
 }
 }

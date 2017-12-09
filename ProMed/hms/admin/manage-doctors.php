@@ -35,7 +35,7 @@ if(isset($_GET['del']))
 		<link href="vendor/bootstrap-timepicker/bootstrap-timepicker.min.css" rel="stylesheet" media="screen">
 		<link rel="stylesheet" href="assets/css/styles.css">
 		<link rel="stylesheet" href="assets/css/plugins.css">
-		<link rel="stylesheet" href="assets/css/themes/theme-1.css" id="skin_color" />
+		<link rel="stylesheet" href="assets/css/themes/theme-1.css"/>
 	</head>
 	<body>
 		<div id="app">		

@@ -20,6 +20,9 @@ $sql=mysqli_query($con->bd,"Update users set fullName='$fullName',addressuser='$
 if($sql)
 {
 echo "<script>alert('Detalhes atualizados!!');</script>";
+    echo "<script language=\"javascript\">
+                document.location=\"manage-users.php\";
+              </script>";
 
 }
 }
@@ -105,7 +108,6 @@ while($data=mysqli_fetch_array($sql))
 															</label>
 	<input type="text" name="fullName" class="form-control" value="<?php echo htmlentities($data['fullName']);?>" >
 														</div>
-
 
 <div class="form-group">
 															<label for="addressuser">

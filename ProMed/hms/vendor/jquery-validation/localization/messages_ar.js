@@ -13,7 +13,7 @@
 $.extend($.validator.messages, {
 	required: "هذا الحقل إلزامي",
 	remote: "يرجى تصحيح هذا الحقل للمتابعة",
-	email: "رجاء إدخال عنوان بريد إلكتروني صحيح",
+	email: "Entre com um email valido.",
 	url: "رجاء إدخال عنوان موقع إلكتروني صحيح",
 	date: "رجاء إدخال تاريخ صحيح",
 	dateISO: "رجاء إدخال تاريخ صحيح (ISO)",

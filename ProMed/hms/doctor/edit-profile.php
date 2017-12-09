@@ -21,6 +21,9 @@ if(isset($_POST['submit']))
     if($sql)
     {
         echo "<script>alert('Detalhes do médico atualizados com sucesso');</script>";
+        echo "<script language=\"javascript\">
+                document.location=\"dashboard.php\";
+              </script>";
 
     }
 }

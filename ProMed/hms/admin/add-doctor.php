@@ -28,7 +28,9 @@ $sql=mysqli_query($con->bd,"INSERT into doctors(specilization,doctorName,datadoc
 if($sql)
 {
 echo "<script>alert('Médico adicionado com sucesso!');</script>";
-echo "<script type='text/javascript'> document.location = href('location:Manage-doctors.php'); </script>";
+    echo "<script language=\"javascript\">
+                document.location=\"manage-doctors.php\";
+              </script>";
 
 }
 }

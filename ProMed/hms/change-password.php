@@ -17,6 +17,7 @@ if(isset($_POST['submit']))
         $con->conect();
         $con = mysqli_query($con->bd, "update users set password='" . ($_POST['npass']) . "', updationDate='$currentTime' where emailuser='" . $_SESSION['login'] . "'");
         $_SESSION['msg1'] = "Senha alterada com sucesso !!";
+
     } else {
         $_SESSION['msg1'] = "Senha antiga não coincide !!";
     }
@@ -117,7 +118,7 @@ if(isset($_POST['submit']))
 													<h5 class="panel-title">Mudar Senha</h5>
 												</div>
 												<div class="panel-body">
-								<p style="color:red;"><?php
+								<p style="color:green;"><?php
                                     $con=new conexao();
                                     $con->conect();
                                     echo htmlentities($_SESSION['msg1']);?>

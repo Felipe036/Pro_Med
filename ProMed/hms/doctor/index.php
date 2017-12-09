@@ -75,18 +75,19 @@ exit();
 								Entre com sua conta!
 							</legend>
 							<p>
-								Preencha seu nome e sua senha para entrar.<br />
+								Preencha seu email e sua senha para entrar.<br />
 								<span style="color:red;"><?php echo $_SESSION['errmsg']; ?><?php echo $_SESSION['errmsg']="";?></span>
-							</p>
+                            </p>
 							<div class="form-group">
 								<span class="input-icon">
-									<input type="text" class="form-control" name="username" placeholder="Nome">
+									<input type="email" class="form-control" name="username" placeholder="Email">
 									<i class="fa fa-user"></i> </span>
 							</div>
 							<div class="form-group form-actions">
 								<span class="input-icon">
 									<input type="password" class="form-control password" name="password" placeholder="Senha">
 									<i class="fa fa-lock"></i>
+                                    <p> Minimo de 6 caracteres</p>
 									 </span>
 							</div>
 							<div class="form-actions">
@@ -113,7 +114,6 @@ exit();
 		<script src="vendor/jquery-cookie/jquery.cookie.js"></script>
 		<script src="vendor/perfect-scrollbar/perfect-scrollbar.min.js"></script>
 		<script src="vendor/switchery/switchery.min.js"></script>
-		<script src="vendor/jquery-validation/jquery.validate.min.js"></script>
 	
 		<script src="assets/js/main.js"></script>
 

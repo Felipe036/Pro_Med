@@ -26,7 +26,9 @@ if(isset($_POST['submit']))
     if($sql)
     {
         echo "<script>alert('Paciente adicionado com sucesso!');</script>";
-        echo "<script type='text/javascript'> document.location = href('location:Manage-users.php'); </script>";
+        echo "<script language=\"javascript\">
+                document.location=\"manage-users.php\";
+              </script>";
 
     }
 }
@@ -59,6 +61,7 @@ if(isset($_POST['submit']))
     <link rel="stylesheet" href="assets/css/plugins.css">
     <link rel="stylesheet" href="assets/css/themes/theme-1.css"/>
     <script type="text/javascript">
+
         function valid()
         {
             if(document.addusers.npass.value!= document.addusers.cfpass.value)
@@ -130,7 +133,7 @@ if(isset($_POST['submit']))
                                                     <label for="cpfuser">
                                                         CPF
                                                     </label>
-                                                    <input type="text" name="cpfuser" id="cpf" class="form-control" placeholder="Digite CPF" maxlength="11">
+                                                    <input type="text" name="cpfuser" id="cpf" class="form-control" placeholder="Digite CPF">
                                                 </div>
                                                 <div class="form-group">
                                                     <label for="rguser">

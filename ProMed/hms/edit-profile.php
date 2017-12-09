@@ -18,6 +18,9 @@ if(isset($_POST['submit']))
     if($sql)
     {
         echo "<script>alert('Seu perfil foi atualizado com sucesso!');</script>";
+        echo "<script language=\"javascript\">
+                document.location=\"dashboard.php\";
+              </script>";
 
     }
 }

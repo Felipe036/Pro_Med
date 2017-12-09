@@ -73,11 +73,6 @@
 											<span class="title"> Gerenciar Pacientes </span>
 										</a>
 									</li>
-                                    <li>
-                                        <a href="anamnesis-card.php">
-                                            <span class="title"> Ficha Anamnese </span>
-                                        </a>
-                                    </li>
 								</ul>
 								</li>
                             <li>

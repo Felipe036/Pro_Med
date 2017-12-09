@@ -84,7 +84,7 @@ if(isset($_GET['del']))
 													<h5 class="panel-title">Especialidade Médica</h5>
 												</div>
 												<div class="panel-body">
-								<p style="color:red;"><?php
+								<p style="color:green;"><?php
                                     $con=new conexaoadmin();
                                     $con->conect();
                                     echo htmlentities($_SESSION['msg']);?>

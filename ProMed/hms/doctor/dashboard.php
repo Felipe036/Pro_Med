@@ -12,7 +12,7 @@ check_login();
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Doutor  | Dashboard</title>
+		<title>Médico  | Dashboard</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
 		<meta name="apple-mobile-web-app-capable" content="yes">
@@ -50,11 +50,11 @@ check_login();
 						<section id="page-title">
 							<div class="row">
 								<div class="col-sm-8">
-									<h1 class="mainTitle">Doutor | Dashboard</h1>
+									<h1 class="mainTitle">Médico | Dashboard</h1>
 																	</div>
 								<ol class="breadcrumb">
 									<li>
-										<span>Doutor</span>
+										<span>Médico</span>
 									</li>
 									<li class="active">
 										<span>Dashboard</span>
@@ -94,7 +94,20 @@ check_login();
 										</div>
 									</div>
 								</div>
-								
+                                <div class="col-sm-4">
+                                    <div class="panel panel-white no-radius text-center">
+                                        <div class="panel-body">
+                                            <span class="fa-stack fa-2x"> <i class="fa fa-square fa-stack-2x text-primary"></i> <i class="fa fa-user-plus fa-stack-1x fa-inverse"></i> </span>
+                                            <h2 class="StepTitle">Atendimento</h2>
+
+                                            <p class="cl-effect-1">
+                                                <a href="medicalcare.php">
+                                                    Atender
+                                                </a>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
 							</div>
 						</div>
 						

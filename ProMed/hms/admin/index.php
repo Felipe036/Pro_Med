@@ -71,6 +71,7 @@ exit();
 							<p>
                                 Digite seu nome e senha para fazer login.<br />
 								<span style="color:red;"><?php echo htmlentities($_SESSION['errmsg']); ?><?php echo htmlentities($_SESSION['errmsg']="");?></span>
+                                <span style="color:green;"><?php echo htmlentities($_SESSION['msg']); ?><?php echo htmlentities($_SESSION['msg']="");?></span>
 							</p>
 							<div class="form-group">
 								<span class="input-icon">
@@ -80,7 +81,8 @@ exit();
 							<div class="form-group form-actions">
 								<span class="input-icon">
 									<input type="password" class="form-control password" name="password" placeholder="Senha"><i class="fa fa-lock"></i>
-									 </span>
+									 <p> Minimo de 6 caracteres</p>
+									  </span>
 							</div>
 							<div class="form-actions">
 
@@ -106,7 +108,6 @@ exit();
 		<script src="vendor/jquery-cookie/jquery.cookie.js"></script>
 		<script src="vendor/perfect-scrollbar/perfect-scrollbar.min.js"></script>
 		<script src="vendor/switchery/switchery.min.js"></script>
-		<script src="vendor/jquery-validation/jquery.validate.min.js"></script>
 
 		<script src="assets/js/main.js"></script>
 

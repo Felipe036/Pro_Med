@@ -22,6 +22,9 @@ if(isset($_POST['submit']))
     if($sql)
     {
         echo "<script>alert('Sua consulta foi realizada com sucesso');</script>";
+        echo "<script language=\"javascript\">
+                document.location=\"appointment-history.php\";
+              </script>";
     }
 
 }

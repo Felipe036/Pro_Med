@@ -85,11 +85,11 @@ if($sql)
 									Gênero <i class="fa fa-venus-mars"></i>
 								</label>
 								<div class="clip-radio radio-primary">
-									<input type="radio" id="rg-female" name="gender" value="female" >
+									<input type="radio" id="rg-female" name="gender" value="Feminino" >
 									<label for="rg-female">
 										Feminino
 									</label>
-									<input type="radio" id="rg-male" name="gender" value="male">
+									<input type="radio" id="rg-male" name="gender" value="Masculino">
 									<label for="rg-male">
 										Masculino
 									</label>
